@@ -1,2 +1,2 @@
 #SortByHeap
-![](sortbyheap.jpg)
+![](./sortbyheap.jpg)
