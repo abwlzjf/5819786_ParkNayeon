@@ -1,2 +1,2 @@
 # HUFFMAN {Result Image}
-![](.6-huffman.jpg)
+![]("C:\Users\samsung-user\OneDrive\사진\6-huffman.jpg")
