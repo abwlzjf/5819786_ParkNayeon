@@ -1,2 +1,2 @@
-#DFSBFS
+#DFSBFS {Result Image}
 ![](./dfsbfs.jpg)
